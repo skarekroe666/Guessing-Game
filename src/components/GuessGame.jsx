@@ -44,7 +44,7 @@ const GuessGame = () => {
             <Card className="w-96 bg-white shadow-md rounded-lg p-5">
                 <CardHeader className="text-center my-5">
                     <CardTitle className='my-6'>
-                        <h1 className="text-3xl font-semibold text-gray-800">
+                        <h1 className="text-3xl font-semibold text-gray-800 my-3">
                             Guess the Number
                         </h1>
                         <h3 className="text-lg text-gray-600">Between 1 - 100</h3>
